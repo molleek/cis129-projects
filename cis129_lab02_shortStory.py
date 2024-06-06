@@ -1,4 +1,4 @@
-# Author:
+# Author: Mollee Kahan
 # First Python lab in CIS129 course
 # Delets Hellow World and prints a simple short story
 print('Once upon a time there lived a princess named Rapunzel.')
