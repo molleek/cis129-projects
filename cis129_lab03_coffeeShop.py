@@ -67,5 +67,5 @@ print("6% tax: $", tax)
 print("---------")
 print("Total: $", total)
 print("***************************************")
-
 print("Thank you for coming to Carla's Coffee Shop!")
+print("***************************************")
